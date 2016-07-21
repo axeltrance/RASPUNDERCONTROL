@@ -1,7 +1,7 @@
 #__Installing ATtiny support in Arduino 1.6.4__
 
 
-Open the preferences dialog in the Arduino software, in the “Additional Boards Manager URLs” paste the following code:
+Open the "File > Preferences" dialog in the Arduino software, in the “Additional Boards Manager URLs” paste the following code:
 >https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 click OK button to save.
