@@ -6,6 +6,6 @@ Open the "File > Preferences" dialog in the Arduino software, in the “Addition
 
 click OK button to save.
 
-Open the boards manager in the “Tools > Board” menu, now you should see an entry for "ATtiny", click on it and install.
+Open the boards manager in the “Tools > Board” menu, now you should see an entry for "ATtiny", click on it and install version 1.0.1
 
 Close the boards manager. Now you have an entry for ATtiny in the “Tools > Board” menu.
